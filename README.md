@@ -8,19 +8,15 @@ Installation
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
-Bootstrap Official website.
-```
+### Bootstrap Official website.
 [https://getbootstrap.com](https://getbootstrap.com)
-```
 
-Course reference.
-```
+
+### Course reference.
 [https://www.tutorialrepublic.com/twitter-bootstrap-tutorial](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial)
-```
 
-Text editor.
-```
+
+### Text editor.
 [Visual Studio Code](https://code.visualstudio.com)
 [Atom](https://atom.io)
 [Sublime Text](https://www.sublimetext.com/)
-```
